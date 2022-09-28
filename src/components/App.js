@@ -26,3 +26,7 @@ function App() {
 }
 
 export default App;
+
+/*--The movies prop is an object containing each movie.
+--This movied prop has been passed down to movies page and 
+movies list*/
